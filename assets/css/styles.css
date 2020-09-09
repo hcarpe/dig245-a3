@@ -5,3 +5,9 @@
 p {
   color: red;
 }
+
+.myClass {
+  color: blue;
+  background-color: purple;
+  text-decoration: underline;
+}
