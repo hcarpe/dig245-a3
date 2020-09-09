@@ -11,3 +11,8 @@ p {
   background-color: purple;
   text-decoration: underline;
 }
+
+
+#thisIsMyUniqueIdTab{
+  color:magenta;
+}
