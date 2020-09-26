@@ -1,18 +1,8 @@
 
 /* css */
 
-
-p {
-  color: red;
-}
-
-.myClass {
-  color: blue;
-  background-color: purple;
-  text-decoration: underline;
-}
-
-
-#thisIsMyUniqueIdTab{
-  color:magenta;
+#border{
+  width: 800px;
+  height: 800px;
+  border: 1px solid #000;
 }
