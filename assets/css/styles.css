@@ -1,6 +1,10 @@
 
 /* css */
 
+* {
+  box-sizing: border-box;
+}
+
 #border{
   width: 800px;
   height: 800px;
