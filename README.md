@@ -7,14 +7,14 @@
 Recreate your favorite example of Swiss Design!
 
 
-- [ ] Select an example from [swissted](https://www.swissted.com/) or [search for your own](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
-- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
-- [ ] Design
-  - [ ] Open `designs/1.psd` in Gimp or Photoshop
-  - [ ] Using only the Type and Shape tools, recreate the design you chose
-  - [ ] Your layout should fit within the Bootstrap grid layout.
-  - [ ] Save your document often
-  - [ ] Make new versions as needed, naming them `2.psd`, `3.psd`, etc.
+- [X] Select an example from [swissted](https://www.swissted.com/) or [search for your own](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
+- [X] Fork this repository and clone it to your `critical-web-design` folder on your machine.
+- [X] Design
+  - [X] Open `designs/1.psd` in Gimp or Photoshop
+  - [X] Using only the Type and Shape tools, recreate the design you chose
+  - [X] Your layout should fit within the Bootstrap grid layout.
+  - [X] Save your document often
+  - [X] Make new versions as needed, naming them `2.psd`, `3.psd`, etc.
 - [ ] HTML/CSS
   - [ ] Code your design inside `index.html`
   - [ ] Use only HTML and CSS to structure and style your design
@@ -35,4 +35,3 @@ Recreate your favorite example of Swiss Design!
 - Course [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css)
 - Bootstrap [documentation](https://getbootstrap.com/docs/)
 - W3Schools [CSS 2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
-
