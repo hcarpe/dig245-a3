@@ -5,9 +5,16 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: 'Helvetica';
+  margin: 0;
+  padding: 0;
+}
+
 #border{
   margin: 0 auto;
   width: 800px;
   height: 800px;
   border: 1px solid #000;
+  overflow: hidden;
 }
