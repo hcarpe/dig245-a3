@@ -32,6 +32,5 @@ body {
 .text{
   font-size: 500;
   font-weight: bold;
-  transform: rotate(-5deg)
-             skew(-5deg);
+  transform: skew(-5deg);
 }
