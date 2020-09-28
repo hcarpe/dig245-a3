@@ -42,6 +42,48 @@ body {
   right: ;
 }
 
+#leftpink{
+  position: absolute;
+  bottom: 5px;
+  right: ;
+}
+
+#yellowcircle{
+  position: absolute;
+  bottom: ;
+  right: ;
+}
+
+#pinkcircle{
+  position: absolute;
+  bottom: ;
+  right: ;
+}
+
+#bluecircle{
+  position: absolute;
+  bottom: ;
+  right: ;
+}
+
+#rightyellow{
+  position: absolute;
+  bottom: ;
+  right: ;
+}
+
+#rightpink{
+  position: absolute;
+  bottom: ;
+  right: ;
+}
+
+#rightblue{
+  position: absolute;
+  bottom: ;
+  right: ;
+}
+
 .text{
   font-size: 500px;
   font-weight: bold;
