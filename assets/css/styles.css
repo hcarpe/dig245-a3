@@ -30,13 +30,13 @@ body {
 }
 
 #leftyellow{
-  position: relative;
+  position: absolute;
   bottom: 100px;
   right: 195px;
 }
 
 #leftblue{
-  position: relative;
+  position: absolute;
   bottom: 75px;
   right: 350px;
 }
