@@ -31,14 +31,14 @@ body {
 
 #leftyellow{
   position: absolute;
-  top: ;
-  left: ;
+  top: 100;
+  left: 95;
 }
 
 #leftblue{
   position: absolute;
-  top: ;
-  left: ;
+  top: 75;
+  left: 200;
 }
 
 .text{
