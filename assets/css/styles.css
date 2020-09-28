@@ -29,6 +29,12 @@ body {
   text-align: center;
 }
 
+#leftyellow{
+  position: relative;
+  bottom: 100px;
+  right: 150px;
+}
+
 .text{
   font-size: 500px;
   font-weight: bold;
