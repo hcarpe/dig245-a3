@@ -34,3 +34,15 @@ body {
   font-weight: bold;
   transform: skew(-5deg);
 }
+
+.yellow{
+  color: #f6de02;
+}
+
+.pink{
+  color: #ed008c;
+}
+
+.blue{
+  color: #3d99e4;
+}
