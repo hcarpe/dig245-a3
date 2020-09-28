@@ -37,14 +37,14 @@ body {
 
 #leftblue{
   position: relative;
-  bottom: 75;
-  right: 400;
+  bottom: 75px;
+  right: 400px;
 }
 
 #leftpink{
   position: relative;
-  bottom: 160;
-  right: 125;
+  bottom: 160px;
+  right: 125px;
 }
 
 .text{
