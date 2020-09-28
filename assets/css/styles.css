@@ -35,6 +35,18 @@ body {
   right: 195px;
 }
 
+#leftblue{
+  position: relative;
+  bottom: 75;
+  right: 400;
+}
+
+#leftpink{
+  position: relative;
+  bottom: 160;
+  right: 125;
+}
+
 .text{
   font-size: 500px;
   font-weight: bold;
