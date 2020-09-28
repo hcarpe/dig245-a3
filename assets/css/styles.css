@@ -28,3 +28,10 @@ body {
   top: 50px;
   text-align: center;
 }
+
+.text{
+  font-size: 500;
+  font-weight: bold;
+  transform: rotate(-5deg)
+             skew(-5deg);
+}
