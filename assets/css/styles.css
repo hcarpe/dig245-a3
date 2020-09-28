@@ -37,6 +37,8 @@ body {
 
 #leftblue{
   position: relative;
+  bottom: 65;
+  right: 400;
 }
 
 .text{
