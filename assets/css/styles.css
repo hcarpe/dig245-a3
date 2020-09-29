@@ -1,4 +1,8 @@
 /* css */
+*{
+  mix-blend-mode: normal;
+}
+
 body {
   font-family: 'Helvetica';
   margin: 0;
