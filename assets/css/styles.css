@@ -73,13 +73,13 @@ body {
 #rightpink{
   position: absolute;
   bottom: 60px;
-  right: ;
+  left: 400;
 }
 
 #rightblue{
   position: absolute;
   bottom: 10px;
-  right: ;
+  left: 300;
 }
 
 .italics{
