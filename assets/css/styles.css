@@ -32,13 +32,13 @@ body {
 
 #leftyellow{
   position: absolute;
-  bottom: 10px;
+  bottom: 8px;
   right: 1px;
 }
 
 #leftblue{
   position: absolute;
-  bottom: 1px;
+  bottom: px;
   left: 200px;
 }
 
