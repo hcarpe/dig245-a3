@@ -49,7 +49,7 @@ body {
 #yellowcircle{
   position: absolute;
   bottom: 5px;
-  left: 150px;
+  left: 100px;
 }
 
 #pinkcircle{
@@ -61,7 +61,7 @@ body {
 #bluecircle{
   position: absolute;
   bottom: 5px;
-  left: -140px;
+  left: -40px;
 }
 
 #rightyellow{
