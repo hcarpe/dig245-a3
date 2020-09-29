@@ -33,7 +33,7 @@ body {
 #leftyellow{
   position: absolute;
   bottom: 1px;
-  right: 1px;
+  left: 25px;
 }
 
 #leftblue{
