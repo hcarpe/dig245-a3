@@ -49,19 +49,19 @@ body {
 #yellowcircle{
   position: absolute;
   bottom: 5px;
-  left: 50px;
+  left: 150px;
 }
 
 #pinkcircle{
   position: absolute;
-  bottom: ;
+  bottom: 5px;
   right: ;
 }
 
 #bluecircle{
   position: absolute;
   bottom: 5px;
-  left: -40px;
+  left: -140px;
 }
 
 #rightyellow{
