@@ -33,7 +33,7 @@ body {
 #leftyellow{
   position: absolute;
   bottom: 1px;
-  left: ;
+  right: 1px;
 }
 
 #leftblue{
@@ -50,7 +50,7 @@ body {
 
 #yellowcircle{
   position: absolute;
-  bottom: ;
+  bottom: 5px;
   right: ;
 }
 
