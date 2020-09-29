@@ -90,7 +90,7 @@ body {
   font-size: 500px;
   font-weight: bold;
   transform: skew(-5deg);
-  mix-blend-mode: normal;
+  mix-blend-mode: multiply;
 }
 
 .intro{
