@@ -55,13 +55,12 @@ body {
 #pinkcircle{
   position: absolute;
   bottom: 5px;
-  right: ;
+  right: 40px;
 }
 
 #bluecircle{
   position: absolute;
   bottom: 5px;
-  left: 40px;
 }
 
 #rightyellow{
