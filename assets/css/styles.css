@@ -3,6 +3,7 @@
 * {
   box-sizing: border-box;
   line-height: 500px;
+  font-: italic;
 }
 
 body {
@@ -23,7 +24,6 @@ body {
 
 #title{
   font-size: 20px;
-  font-style: italic;
   position: relative;
   bottom: 200px;
   text-align: center;
