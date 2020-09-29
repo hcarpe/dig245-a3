@@ -3,7 +3,6 @@
 * {
   box-sizing: border-box;
   line-height: 500px;
-  
 }
 
 body {
@@ -81,6 +80,10 @@ body {
   position: absolute;
   bottom: ;
   right: ;
+}
+
+.italics{
+  font-style: italic;
 }
 
 .text{
