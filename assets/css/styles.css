@@ -55,7 +55,7 @@ body {
 #pinkcircle{
   position: absolute;
   bottom: 5px;
-  left: -40px;
+  left: 40px;
 }
 
 #bluecircle{
