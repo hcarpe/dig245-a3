@@ -52,13 +52,13 @@ body {
   left: 100px;
 }
 
-#pinkcircle{
+#bluecircle{
   position: absolute;
   bottom: 5px;
   right: ;
 }
 
-#bluecircle{
+#pinkcircle{
   position: absolute;
   bottom: 5px;
   left: -40px;
