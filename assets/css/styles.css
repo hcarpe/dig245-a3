@@ -62,7 +62,7 @@ body {
 #bluecircle{
   position: absolute;
   bottom: 5px;
-  right: 50px;
+  left: 50px;
 }
 
 #rightyellow{
