@@ -1,9 +1,5 @@
 /* css */
 
-* {
-  box-sizing: border-box;
-  line-height: 500px;
-}
 
 body {
   font-family: 'Helvetica';
@@ -12,6 +8,8 @@ body {
 }
 
 #border{
+  box-sizing: border-box;
+  line-height: 500px;
   position: relative;
   top: 90px;
   margin: 0 auto;
