@@ -38,13 +38,13 @@ body {
 #leftblue{
   position: absolute;
   bottom: -5px;
-  left: -300px;
+  left: -350px;
 }
 
 #leftpink{
   position: absolute;
   bottom: 50px;
-  right: 1px;
+  left: -300px;
 }
 
 #yellowcircle{
